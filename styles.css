@@ -1,0 +1,38 @@
+body {
+  background-color: #F7F7F7;
+  background-image: url('img/foggy-birds.png');
+  font-family: 'Lora', serif;
+}
+button {
+    position: relative;
+  bottom: 65px;
+  font-size: 5rem;
+  padding: 2% 5% 2% 5%;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+  background-image: -webkit-linear-gradient(top, #FFF323, #FFC93C);
+  background-image: -moz-linear-gradient(top, #FFF323, #FFC93C);
+  background-image: -ms-linear-gradient(top, #FFF323, #FFC93C);
+  background-image: -o-linear-gradient(top, #FFF323, #FFC93C);
+  background-image: linear-gradient(to bottom, #FFF323, #FFC93C);
+}
+
+h1 {
+  font-size: 2rem;
+  padding: 5%;
+  color: #1B1A17;
+}
+h2{
+
+padding-top: 3%;
+}
+h3 {
+  padding-top: 15%;
+  font-size: 1rem;
+}
+#name {
+  position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+padding: 2% 2% 2% 2%;
+}
