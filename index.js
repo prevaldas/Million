@@ -1,6 +1,6 @@
 $("button").on("mouseover", function() {
   $("button").hide();
 });
-$("button").on("mouseout", function() {
-  $("button").show();
-});
+// $("button").on("mouseout", function() {
+//   $("button").show();
+// });
